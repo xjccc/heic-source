@@ -12,6 +12,8 @@ dist
 dist-ssr
 *.local
 
+src/* !App.vue
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
